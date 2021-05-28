@@ -1,0 +1,6 @@
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\bin\x64\Release\test_callback.exe.config
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\bin\x64\Release\test_callback.exe
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\bin\x64\Release\test_callback.pdb
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\obj\x64\Release\test_callback.csproj.CoreCompileInputs.cache
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\obj\x64\Release\test_callback.exe
+E:\jingruishijue\test\test_callback\test_callback\test_callback\test_callback\obj\x64\Release\test_callback.pdb

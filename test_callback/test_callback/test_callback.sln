@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_callback", "test_callback\test_callback.csproj", "{062DF857-F0C2-417E-8A93-B432CCE29704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Debug|x64.ActiveCfg = Debug|x64
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Debug|x64.Build.0 = Debug|x64
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Release|x64.ActiveCfg = Release|x64
+		{062DF857-F0C2-417E-8A93-B432CCE29704}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCFF08D-CE64-4497-AD8F-AFDB9A810F79}
+	EndGlobalSection
+EndGlobal
